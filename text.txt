@@ -1,0 +1,9 @@
+Tareas Espacial Estudio
+- Crear Linked In Espacial Cancelado
+- Asociar personas a puestos Cancelado
+- Hacer retroalimentación mensual, crear encuesta para bilateral de lo que nos gusta y no nos gusta de todos, carga clockify
+
+- Resultados de Enero
+- App con Varios items como carro de compras
+- Eliminar Proyectos
+- Actualizar Looker Studio
